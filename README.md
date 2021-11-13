@@ -1,2 +1,1 @@
-# projectML
-done the project linear regression it was cool
+# Cotton-Disease-Prediction-Deep-Learning
